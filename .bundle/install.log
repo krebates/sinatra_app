@@ -1,0 +1,8 @@
+# Logfile created on 2014-01-15 23:54:18 -0500 by logger.rb/41954
+I, [2014-01-15T23:54:18.934751 #50130]  INFO -- : 0:  rack (1.5.2) from /Users/krystlebates/.rvm/gems/ruby-2.0.0-p353@krystle_site/specifications/rack-1.5.2.gemspec
+I, [2014-01-15T23:54:20.251678 #50130]  INFO -- : 0:  rack-protection (1.5.2) from /Users/krystlebates/.rvm/gems/ruby-2.0.0-p353@krystle_site/specifications/rack-protection-1.5.2.gemspec
+I, [2014-01-15T23:54:22.294842 #50130]  INFO -- : 0:  sass (3.2.13) from /Users/krystlebates/.rvm/gems/ruby-2.0.0-p353@krystle_site/specifications/sass-3.2.13.gemspec
+I, [2014-01-15T23:54:23.797954 #50130]  INFO -- : 0:  tilt (1.4.1) from /Users/krystlebates/.rvm/gems/ruby-2.0.0-p353@krystle_site/specifications/tilt-1.4.1.gemspec
+I, [2014-01-15T23:54:25.916425 #50130]  INFO -- : 0:  sinatra (1.4.4) from /Users/krystlebates/.rvm/gems/ruby-2.0.0-p353@krystle_site/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-15T23:54:34.193505 #50130]  INFO -- : 0:  zurb-foundation (4.3.2) from /Users/krystlebates/.rvm/gems/ruby-2.0.0-p353@krystle_site/specifications/zurb-foundation-4.3.2.gemspec
+I, [2014-01-15T23:54:34.194021 #50130]  INFO -- : 0:  bundler (1.5.1) from /Users/krystlebates/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
